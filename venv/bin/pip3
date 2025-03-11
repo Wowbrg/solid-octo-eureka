@@ -1,4 +1,4 @@
-#!/Users/victor/Desktop/project/NumEater/venv/bin/python
+#!/Users/victor/Desktop/project/solid-octo-eureka/venv/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
